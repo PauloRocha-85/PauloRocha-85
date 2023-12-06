@@ -1,7 +1,9 @@
 ### Olá sou Paulo Rocha 👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando fullstack
+- 😎 Hoje trabalho como freelancer desenvolvedor front end
+- 🌱 Interesse em desenvolvimento front-end e back-end
+- 💻 Buscando uma oprtunidade para atuar como desenvolvedor
+- 
   
    <div>
   <a href="https://github.com/paulorocha-85">
