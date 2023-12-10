@@ -6,7 +6,7 @@ Sejam bem-vindos ao meu perfil no Github onde compartilho meus projetos e aprend
 - 💻 Buscando uma oprtunidade para atuar como desenvolvedor
 - 🌱Estudo atualmente na escola virtual de formação completa de programação <a href="https://cursos.dankicode.com/">DANKICODE</a>
 
-🎯 Foco: Desenvolvedora FrontEnd💻
+🎯 Foco: Desenvolvedor FrontEnd💻
   
    <div>
   <a href="https://github.com/paulorocha-85">
