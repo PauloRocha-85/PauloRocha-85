@@ -10,9 +10,8 @@ Sejam bem-vindos ao meu perfil no Github onde compartilho meus projetos e aprend
   
    <div>
   <a href="https://github.com/paulorocha-85">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paulorocha-85&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorocha-85&layout=compact&langs_count=16&theme=neon"/>
-</div>
+   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=paulorocha-85&show_icons=true&hide_border=vue-dark&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF"/>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
