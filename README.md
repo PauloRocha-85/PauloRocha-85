@@ -1,4 +1,4 @@
-### Olá sou Paulo Rocha 👋
+### Olá sou Paulo Rocha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Sejam bem-vindos ao meu perfil no Github onde compartilho meus projetos e aprendizados. 🚀
 
@@ -22,14 +22,18 @@ Sejam bem-vindos ao meu perfil no Github onde compartilho meus projetos e aprend
   </p>
   </div>
   
-    
+   <h4 align="center">
+Tecnologias que você encontrará por aqui
+<div align="center"><br>  
+  <h6>
   <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Rafa-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </div>
-
+  <hr>
 
